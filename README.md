@@ -2,7 +2,7 @@
 
 ## Description
 
-PCB to add a switch to disable Dishy motors without splicing any wires.
+PCB to add a switch to disable Starlink Dishy motors without splicing any wires.
 
 <img src="./images/Product Image 1.jpeg" />
 
