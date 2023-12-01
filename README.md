@@ -17,6 +17,7 @@ Part | Quantity
 [JUMPER SZE-002T-P0.3 X2](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASZESZE26K102/9960101) 4" Motor Cables | 4
 [S4B-PH-SM4-TB](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S4B-PH-SM4-TB/926657) Switch Connector | 1
 [Micro Jst 2.0 Ph](https://www.amazon.com/Micro-Connector-150mm-Cable-Female/dp/B01DUC1S7S/ref=sr_1_5?crid=3858QF03C4LIL&keywords=Micro+Jst+2.0+Ph&qid=1701401680&sprefix=micro+jst+2.0+ph%2Caps%2C142&sr=8-5) Switch Cables | 1
+[Drill Location Template](./Drill%20Location%20Template.pdf) 1:1 Scale | 1
 
 ## Install
 
