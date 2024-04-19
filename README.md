@@ -55,9 +55,8 @@ The PCB has two connectors that are identical to what is on the Dish PCB for the
 
 Disconnect the Dishy motor connector from the Dish and connect to the switch PCB. Attach the 4 wire pigtail to the PCB inside Dishy and then to the switch PCB. Connect the switch to the PCB.
 
-*❓I forgot to take a picture of this before shrinkwrapping. If someone can provide an image, that'd be greatly appreciated!*
-
-<img src="./images/PCB Heat Shrink.jpeg" width="49%" />
+<img src="./images/PCB Connected.jpeg" width="49%" />
+(Image provided by Matt K)
 
 ### 5. Heat Shrink Everything
 
